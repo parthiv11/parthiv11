@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Parthiv makwana</h1>
 <div align="center"> <img src="https://user-images.githubusercontent.com/75653580/171160560-49573616-b3f7-4488-bb86-ae055200e031.jpg" width=400 ></div>
-<h3 align="center">A passionate Three.js, Flutter Developer from India</h3>
+<h3 align="center">A passionate Three.js, Flutter Developer, Tech Enthusiastic from India</h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/75653580/171157560-475a67d1-0f63-40c4-a7cc-161c865bb95a.jpg" height=350></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv11&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv11" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/parrthiv" target="blank"><img src="https://img.shields.io/twitter/follow/parrthiv?logo=twitter&style=for-the-badge" alt="parrthiv" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Advance, ML/AI,**
+- 🌱  I’m currently sleeping 😴 or working on my laptop 👨‍💻**
 
-- 💬 Ask me about **ThreeJS,Dart, Java**
+- 💬 Ask me about **ThreeJS, Dart, Java**
 
 - 📫 How to reach me **parthivmakwana11@gmail.com**
 
-- ⚡ Fun fact **I Have only 4GB Laptop(LAPI)**
+- ⚡ Fun fact **1 <3 4 T9n4**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
