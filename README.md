@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Parthiv makwana <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px"></h1>
+<h1 align="center">Hi <img src="/assets/Hi.gif" width="29px">, I'm Parthiv makwana <img src="/assets/coin.gif" width="29px"></h1>
 <div align="center"> <img src="https://user-images.githubusercontent.com/75653580/171160560-49573616-b3f7-4488-bb86-ae055200e031.jpg" width=400 ></div>
 <h3 align="center">A passionate Three.js, Flutter Developer, Tech Enthusiastic from India</h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/75653580/171157560-475a67d1-0f63-40c4-a7cc-161c865bb95a.jpg" height=350></div>
