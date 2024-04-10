@@ -12,7 +12,7 @@
 
 - 🌱 Whether I'm in dreamland 😴 or deep in the digital world 💻, I'm here!
 - 💬  Let's engage in conversation about anything that sparks joy or create impact or anything else!
-- 📫 Drop me a line at parthivmakwana11@gmail.com <img src="/assets/fire.gif" width="49px"> to connect! 
+- 📫 Drop me a line at parthivmakwana11@gmail.com <img src="/assets/fire.gif" width="39px"> to connect! 
 - ⚡ Let's chat, laugh, and explore together and who knows, we might just stumble upon your next big thing!
 
 <h3 align="left">Let us connect: </h3>
