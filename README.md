@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="/assets/Hi.gif" width="29px">, I'm Parthiv makwana <img src="/assets/coin.gif" width="29px"></h1>
 <div align="center"> <img src="https://user-images.githubusercontent.com/75653580/171160560-49573616-b3f7-4488-bb86-ae055200e031.jpg" width=400 ></div>
-<h3 align="center">A passionate Three.js, Flutter Developer, Tech Enthusiastic from India</h3>
+<h3 align="center">A curious boy from India <img src="https://user-images.githubusercontent.com/74038190/212259418-113cbda4-dfee-476b-890d-f0d0ca366f31.jpg" width="49px"> </h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/75653580/171157560-475a67d1-0f63-40c4-a7cc-161c865bb95a.jpg" height=350></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv11&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv11" /> </p>
 
@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/parrthiv" target="blank"><img src="https://img.shields.io/twitter/follow/parrthiv?logo=twitter&style=for-the-badge" alt="parrthiv" /></a> </p>
 
-- 🌱  I’m currently sleeping 😴 or working on my laptop 👨‍💻
+- 🌱 Whether I'm in dreamland 😴 or deep in the digital world 💻, I'm here!
 
-- 💬 Ask me about **ThreeJS, Dart, Java**
+- 💬 💬 Let's engage in conversation about anything that sparks joy or create impact or anything else!
+- 📫 Drop me a line at parthivmakwana11@gmail.com to connect <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="89px"> !
 
-- 📫 How to reach me **parthivmakwana11@gmail.com**
-
-- ⚡ Fun fact **1 <3 4 T9n4**
+- ⚡ Let's chat, laugh, and explore together and who knows, we might just stumble upon your next big thing!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
