@@ -16,15 +16,4 @@
   <a href="https://twitter.com/parrthiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parrthiv" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats and Insights
 
-<div align="center">
-  <img src="https://stats.quine.sh/parthiv11/github?theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://stats.quine.sh/parthiv11/dependencies?theme=dark" alt="Dependencies" width="48%">
-</div>
-
-<div align="center">
-  <img style="margin-left:20px;" src="https://stats.quine.sh/parthiv11/languages-over-time?theme=dark" alt="Languages Over Time" width="80%">
-  <p></p>
-  <img src="https://stats.quine.sh/parthiv11/topics-over-time?theme=dark" alt="Topics Over Time" width="80%">
-</div>
